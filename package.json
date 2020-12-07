@@ -51,7 +51,7 @@
     "jp-wrap": "^0.2.2",
     "kansuji": "^1.1.0",
     "markdown-it": "^8.4.2",
-    "mustache": "^3.0.0",
+    "mustache": "^4.1.0",
     "puppeteer": "^1.10.0"
   }
 }
